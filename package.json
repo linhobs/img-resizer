@@ -1,0 +1,24 @@
+{
+  "name": "img_resizer",
+  "version": "1.0.0",
+  "description": "An application that resizes an image",
+  "productName": "Image resizer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "js",
+    "image",
+    "resize",
+    "dimensions"
+  ],
+  "author": "linhobs",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^21.0.1",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
